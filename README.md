@@ -1,4 +1,4 @@
-# ESPRIT superresolution algorithm
+# ESPRIT superresolution algorithm (Алгоритм сверхразрешения ESPRIT)
 Estimation of signal parameters via rotational invariant techniques.
 
 Функция для пакета MATLAB, реализующая обработку подаваемого в нее сигнала алгоритмом сверхразрешения ESPRIT. 
